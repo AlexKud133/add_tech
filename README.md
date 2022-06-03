@@ -5,3 +5,4 @@ The first chapter presents a hypothesis about the possibility of correcting the 
 In the second chapter, the methods of solving the problem and the basic principles of data collection and approaches to creating models using thermal conductivity equations describing the physical phenomena under consideration are considered.
 The third chapter describes models both for determining the initial level (base-line) and models based on neural networks (MLP and LSTM), including examples of training such networks and the results of predicting the parameters of the surfacing process using trained networks. 
 In conclusion, the results of the model are summarized and conclusions are formulated confirming the correctness of the hypothesis about the possibility of thermal hardening of the product, directly during the additive manufacturing process. 
+https://colab.research.google.com/drive/1OVgWjNDAytPQQ0VF2ByaZWzZQBIs7gf6?usp=sharing
